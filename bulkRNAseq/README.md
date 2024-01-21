@@ -1,1 +1,1 @@
-This repository includes files to preprocess raw bulk RNA-seq fastq files. Steps include QC, adapter trimming, post-trimming QC, alignment, alignment QC and ribosomal RNA read percentage check. It also has featureCounts_Script.sh file, which generates a counts matrix. 
+This repository includes files to preprocess raw bulk RNA-seq fastq files. Steps include QC, adapter trimming, post-trimming QC, alignment, alignment QC and ribosomal RNA read percentage check. It also has featureCounts_usage.sh file, which generates a counts matrix. 
